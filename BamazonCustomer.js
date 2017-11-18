@@ -108,11 +108,11 @@ connection.query('SELECT * FROM Products', function(err, res){
           }
         }
 
-      }); // end item quantity query
+      }); 
 
-    }); // end of prompt 2
+    }); 
 
-  }); // end of prompt 1
+  }); 
 
-}); // end of main query
+}); 
 
